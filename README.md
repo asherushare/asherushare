@@ -3,11 +3,11 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shourya+Saxena!;Mern+Stack+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Patra+Kirsani!;Mern+Stack+Developer+💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm Shourya, a passionate MERN stack developer and coding enthusiast from India🌍!</h2>
+<h2 align="center">👋 I'm Patra, a passionate MERN stack developer and coding enthusiast from India🌍!</h2>
 
 <br/>
 
@@ -31,10 +31,10 @@
 🎮 Coding Maverick 🕹️
 </p>
 
-📫 Contact Me At **saxenshourya000@gmail.com**
+📫 Contact Me At **asherushare@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="https://linkedin.com/in/shouryasaxena" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://linkedin.com/in/asherushare" target="_blank">LinkedIn</a>
 </h5>
 
 <hr/>
@@ -77,10 +77,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaxenaShourya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SaxenaShourya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=asherushare&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=asherushare&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaxenaShourya&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=asherushare&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
